@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicolafan
 - 👀 I’m interested in Machine Learning applications with Python, web development and algorithms.
 - 💞️ I’m looking to collaborate on coding projects on GitHub, I think this will be a method for deeply understanding what I'm studying. 
-- 📫 How to reach me: forums or my email address.
+- 📫 How to reach me: forums or my email address (or send me a DM on Twitter).
 - 📚 Currently I'm a Computer Science student in Italy.
 
 <!---
