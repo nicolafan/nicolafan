@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nicolafan
-- 👀 I’m interested in Machine Learning applications with Python, web development and algorithms.
-- 💞️ I’m looking to collaborate on coding projects on GitHub, I think this will be a method for deeply understanding what I'm studying. 
-- 📫 How to reach me: forums or my email address (or send me a DM on Twitter).
-- 📚 Currently I'm a Computer Science student in Italy.
+👋 Hi, I’m Nicola Fanelli.
+
+I am a second-year PhD student at the University of Bari working on **deep learning for computer vision**.
+
+I'm especially interested in **multimodal models** leveraging both images and text to analyze art, but I always keep an eye on the latest developments in the broader deep learning domain.
 
 <!---
 nicolafan/nicolafan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
